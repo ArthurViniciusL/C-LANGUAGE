@@ -1,2 +1,2 @@
-# C-LANGUAGE
-Exercicios para praticar e descobrir um pouco sobre a linguagem C
+# praticando-C
+Um apanhando de algumas questões com que fiz para estudar um pouco da a linguagem C.
